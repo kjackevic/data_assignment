@@ -62,6 +62,8 @@ datasummary(growth+rgdp60~treat*(Mean+Median+SD+Min+Max),data=GrowthSW)
 
 Designated place: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+#The table summarizes the mean, median, standard deviation, minimum, and maximum values of the variables "growth" and "rgdp60" for two groups: countries with no revolutions (treat = equal to 0) and countries with more than 0 revolutions (treat = more than 0). In 'equal to 0', the mean for growth is 2.46, while for 'rgpdp60' is 5283.32. The median for 'growth' is 2.29, while for 'rgdp60' it is 5393.00. In 'more than 0', the mean for 'growth' is 1.68, while for 'rgdp60' it is 1988.67. The median for 'growth' is 1.92, while for 'rgdp60' it is 1259.00. 
+
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
